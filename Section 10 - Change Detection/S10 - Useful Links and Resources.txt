@@ -1,0 +1,4 @@
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/10-change-detection/starting-project.zip
+
+Using Signals for Sharing Data Across Components (with OnPush) -
+messages.service.ts: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/10-change-detection/04-onpush-signals/src/app/messages/messages.service.ts

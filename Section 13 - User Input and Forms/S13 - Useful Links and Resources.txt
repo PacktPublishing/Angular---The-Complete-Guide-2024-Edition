@@ -1,0 +1,25 @@
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/13-forms/starting-project.zip
+
+
+Adding Validation Styles - 
+styles.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/13-forms/03-validation-styles/src/styles.css
+
+
+
+Interacting with the Underlying Form Objects In the Component - 
+login.component.html: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/13-forms/04-updating-form-values/src/app/auth/login/login.component.html
+
+login.component.ts: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/13-forms/04-updating-form-values/src/app/auth/login/login.component.ts
+
+
+
+Building Custom Validators - 
+https://angular.dev/guide/forms/form-validation#adding-custom-validators-to-template-driven-forms 
+
+
+Exercise: Problem -
+signup.component.html: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/13-forms/11-exercise-start/src/app/auth/signup/signup.component.html
+
+
+Creating Multi-Input Validators / Form Group Validators - 
+Updated styles.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/13-forms/16-multi-input-validator/src/styles.css

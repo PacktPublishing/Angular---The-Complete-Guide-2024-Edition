@@ -1,0 +1,11 @@
+Module Introduction and Starting Project - 
+
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/04-essentials-practice/01-starting-project.zip
+
+Attachments / Style Files: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/tree/main/attachments/04-essentials-practice
+
+
+
+
+Adding a Header Component With an Image - 
+header.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/04-essentials-practice/header.component.css

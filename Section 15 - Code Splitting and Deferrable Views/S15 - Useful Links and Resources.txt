@@ -1,0 +1,11 @@
+Introducing Route-based Lazy Loading - 
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/15-lazy-loading/starting-project.zip
+
+
+Introducing Deferrable Views - 
+Deferrable Views Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/15-lazy-loading/deferrable-views-starting-project.zip
+
+
+Defer Loading Until Viewport Visibility - 
+Deferrable Views Docs: https://angular.dev/guide/defer#overview
+

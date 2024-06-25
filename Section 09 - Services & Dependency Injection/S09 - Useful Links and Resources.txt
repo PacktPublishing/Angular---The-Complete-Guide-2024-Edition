@@ -1,0 +1,10 @@
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/09-services-deep-dive/starting-project.zip
+
+
+
+Angular Modules (NgModule) & Dependency Injection - 
+NgModules Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/tree/main/code-snapshots/09-services-deep-dive/services-ngmodules
+
+
+Working with Services Without Signals - 
+No Signals Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/tree/main/code-snapshots/09-services-deep-dive/services-nosignals

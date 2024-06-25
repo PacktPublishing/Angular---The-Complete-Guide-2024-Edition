@@ -1,0 +1,5 @@
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/12-http/starting-project.zip
+
+
+Implementing App-wide Error Management -
+Shared Files: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/12-http/shared.zip

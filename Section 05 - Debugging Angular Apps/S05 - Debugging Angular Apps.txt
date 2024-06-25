@@ -1,0 +1,3 @@
+Understanding Error Messages & Fixing Errors - 
+
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/05-debugging/01-starting-project.zip

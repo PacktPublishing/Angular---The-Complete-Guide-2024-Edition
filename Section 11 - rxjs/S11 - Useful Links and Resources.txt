@@ -1,0 +1,2 @@
+Creating and Using an Observable - 
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/11-rxjs/starting-project.zip

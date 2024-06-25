@@ -1,0 +1,9 @@
+Using "ng add", "ng deploy" & Angular's Built-in Deployment Support -
+
+Angular CLI Deployment: https://angular.dev/tools/cli/deployment
+
+
+
+
+SSR and Client-Server Mismatches - 
+tasks.component.ts: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/16-deployment/04-resolver-to-signals/src/app/tasks/tasks.component.ts

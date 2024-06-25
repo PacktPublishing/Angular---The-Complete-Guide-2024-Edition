@@ -1,0 +1,4 @@
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/08-pipes-deep-dive/starting-project.zip
+
+Understanding How Pipes are Executed - 
+More on Primitive Values vs Reference Types: https://academind.com/tutorials/reference-vs-primitive-values 

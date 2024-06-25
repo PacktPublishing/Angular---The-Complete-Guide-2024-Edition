@@ -1,0 +1,12 @@
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/14-routing/starting-project.zip
+
+
+Adding a "Not Found" Route - 
+Not Found Component: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/tree/main/code-snapshots/14-routing/08-redirect/src/app/not-found
+
+
+Controlling Route Resolver Execution - 
+users.routes.ts: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/14-routing/14-resolve-user-tasks/src/app/users/users.routes.ts
+
+tasks.component.ts: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/14-routing/14-resolve-user-tasks/src/app/tasks/tasks.component.ts
+

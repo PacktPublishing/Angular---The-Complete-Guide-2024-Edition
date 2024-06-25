@@ -1,0 +1,42 @@
+Starting Project -
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/01-starting-project.zip
+
+
+Styling the Header Component & Adding an Image -
+header.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/header.component.css
+
+styles.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/styles.css
+
+index.html: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/index.html
+
+task-management-logo.png: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/task-management-logo.png
+
+
+
+Styling and Using our Next Custom Component - 
+user.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/user.component.css
+
+app.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/app.component.css
+
+
+
+Preparing User Data (To Output Dynamic Content) - 
+dummy-users.ts: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/dummy-users.ts
+
+
+TypeScript: Type Aliases & Interfaces - 
+type vs interface: https://stackoverflow.com/a/52682220
+
+
+
+Outputting User-specific Tasks - 
+Dummy Tasks: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/dummy-tasks.ts
+
+
+Managing The "New Task" Dialog - 
+new-task.component.html: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/new-task.component.html
+
+new-task.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/02-essentials/new-task.component.css
+
+
+

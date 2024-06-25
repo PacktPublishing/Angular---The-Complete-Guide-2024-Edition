@@ -1,0 +1,44 @@
+Starting Project & an Opportunity For Smaller Components -
+ 
+Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/06-cmp-deep-dive/starting-project.zip
+
+
+
+Scoping CSS Styles to Components - 
+
+Style Files: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/tree/main/attachments/06-cmp-deep-dive/cmp-style-files
+
+
+
+
+Making Sense of Component Host Elements - 
+
+button.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/code-snapshots/06-cmp-deep-dive/07-host-property/src/app/shared/button/button.component.css
+
+
+
+Angular Components Lifecycle - https://angular.dev/guide/components/lifecycle\
+
+
+
+Lifecycle Deep Dive Starting Project - 
+https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/06-cmp-deep-dive/lifecycle-deep-dive-start.zip
+
+
+
+Working with Template Variables - 
+
+More on HTMLInputElement: https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement
+
+
+
+
+Revisiting Inputs and Signals - 
+ticket.component.html: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/06-cmp-deep-dive/ticket.component.html
+
+ticket.component.css: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/06-cmp-deep-dive/ticket.component.css
+
+
+
+Setting Up Custom Two-Way Binding - 
+Two-Way-Binding Starting Project: https://github.com/mschwarzmueller/angular-complete-guide-course-resources/blob/main/attachments/06-cmp-deep-dive/custom-2w-binding-starting-project.zip
