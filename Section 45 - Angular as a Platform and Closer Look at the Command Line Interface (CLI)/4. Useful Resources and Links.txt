@@ -1,3 +1,0 @@
-Useful Resources and Links
-
-Getting Started with Git: https://academind.com/tutorials/git-the-basics

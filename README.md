@@ -14,6 +14,9 @@ Refer to this [GitHub repo](https://github.com/PacktPublishing/Angular---The-Com
 ## For the 2023 edition of the course
 Refer to this [GitHub repo](https://github.com/PacktPublishing/Angular---The-Complete-Guide---2023-Edition)
 
+## For the Older Angular version using Angular 16 and 17
+Refer to this [GitHub repo](https://github.com/PacktPublishing/Angular---The-Complete-Guide-for-Angular-16-17)
+
 ## What You Will Learn:
 - Develop robust Angular applications from scratch
 - Master the use of Angular components, templates, and services
